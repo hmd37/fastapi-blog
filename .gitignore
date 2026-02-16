@@ -11,5 +11,4 @@ wheels/
 .vscode
 snippets.txt
 uv.lock
-*.db
 .env
